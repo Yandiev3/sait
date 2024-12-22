@@ -1,0 +1,44 @@
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    max-width: 1240px;
+    margin-inline: auto;
+    height: 80px;
+    font-size: 20px;
+}
+nav{
+    display: flex;
+    gap: 20px;
+}
+nav a{
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+}
+nav :hover{
+    border-bottom: 1px solid #FF6464;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1400px;
+    margin-inline: auto;
+    margin-top: 64px;
+}
+.footer_container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.footer_icons{
+    display: flex;
+    gap: 45px;
+}
+.footer_icons img{
+    cursor: pointer;
+}
