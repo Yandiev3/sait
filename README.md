@@ -1,3 +1,11 @@
+1. npm intasll
+2. npm start
+
+
+
+
+
+
 # Sait
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.5.
